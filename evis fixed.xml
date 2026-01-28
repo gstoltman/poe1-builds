@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build pantheonMinorGod="Gruthkul" characterLevelAutoMode="false" ascendClassName="Elementalist" level="96" mainSocketGroup="3" className="Witch" viewMode="TREE" bandit="Eramir" targetVersion="3_0" pantheonMajorGod="TheBrineKing">
+		<PlayerStat value="84928.2282" stat="AverageDamage"/>
+		<PlayerStat value="84928.2282" stat="AverageBurstDamage"/>
+		<PlayerStat value="0.5941770647653" stat="Speed"/>
+		<PlayerStat value="8.6" stat="PreEffectiveCritChance"/>
+		<PlayerStat value="8.6" stat="CritChance"/>
+		<PlayerStat value="1" stat="CritMultiplier"/>
+		<PlayerStat value="100" stat="HitChance"/>
+		<PlayerStat value="50462.405347594" stat="TotalDPS"/>
+		<PlayerStat value="0" stat="TotalDot"/>
+		<PlayerStat value="50462.405347594" stat="WithBleedDPS"/>
+		<PlayerStat value="19723423.801624" stat="IgniteDPS"/>
+		<PlayerStat value="4930855.950406" stat="BurningGroundDPS"/>
+		<PlayerStat value="19773886.206972" stat="WithIgniteDPS"/>
+		<PlayerStat value="50462.405347594" stat="WithPoisonDPS"/>
+		<PlayerStat value="24654279.75203" stat="TotalDotDPS"/>
+		<PlayerStat value="0" stat="CullingDPS"/>
+		<PlayerStat value="0" stat="ReservationDPS"/>
+		<PlayerStat value="24704742.157378" stat="CombinedDPS"/>
+		<PlayerStat value="1.683" stat="Cooldown"/>
+		<PlayerStat value="12.7" stat="AreaOfEffectRadiusMetres"/>
+		<PlayerStat value="36" stat="ManaCost"/>
+		<PlayerStat value="0" stat="ManaPercentCost"/>
+		<PlayerStat value="21.390374331551" stat="ManaPerSecondCost"/>
+		<PlayerStat value="0" stat="ManaPercentPerSecondCost"/>
+		<PlayerStat value="0" stat="LifeCost"/>
+		<PlayerStat value="0" stat="LifePercentCost"/>
+		<PlayerStat value="0" stat="LifePerSecondCost"/>
+		<PlayerStat value="0" stat="LifePercentPerSecondCost"/>
+		<PlayerStat value="0" stat="ESCost"/>
+		<PlayerStat value="0" stat="ESPerSecondCost"/>
+		<PlayerStat value="0" stat="ESPercentPerSecondCost"/>
+		<PlayerStat value="0" stat="RageCost"/>
+		<PlayerStat value="0" stat="SoulCost"/>
+		<PlayerStat value="189" stat="Str"/>
+		<PlayerStat value="159" stat="ReqStr"/>
+		<PlayerStat value="86" stat="Dex"/>
+		<PlayerStat value="84" stat="ReqDex"/>
+		<PlayerStat value="268" stat="Int"/>
+		<PlayerStat value="159" stat="ReqInt"/>
+		<PlayerStat value="0" stat="Devotion"/>
+		<PlayerStat value="172800.61157421" stat="TotalEHP"/>
+		<PlayerStat value="18523" stat="PhysicalMaximumHitTaken"/>
+		<PlayerStat value="38409" stat="LightningMaximumHitTaken"/>
+		<PlayerStat value="38409" stat="FireMaximumHitTaken"/>
+		<PlayerStat value="48884" stat="ColdMaximumHitTaken"/>
+		<PlayerStat value="inf" stat="ChaosMaximumHitTaken"/>
+		<PlayerStat value="506" stat="MainHandAccuracy"/>
+		<PlayerStat value="1" stat="Life"/>
+		<PlayerStat value="0" stat="Spec:LifeInc"/>
+		<PlayerStat value="1" stat="LifeUnreserved"/>
+		<PlayerStat value="1" stat="LifeRecoverable"/>
+		<PlayerStat value="100" stat="LifeUnreservedPercent"/>
+		<PlayerStat value="0" stat="LifeRegenRecovery"/>
+		<PlayerStat value="0.05941770647653" stat="LifeLeechGainRate"/>
+		<PlayerStat value="830" stat="Mana"/>
+		<PlayerStat value="0" stat="Spec:ManaInc"/>
+		<PlayerStat value="69" stat="ManaUnreserved"/>
+		<PlayerStat value="8.3132530120482" stat="ManaUnreservedPercent"/>
+		<PlayerStat value="74.6" stat="ManaRegenRecovery"/>
+		<PlayerStat value="0" stat="ManaLeechGainRate"/>
+		<PlayerStat value="7129" stat="EnergyShield"/>
+		<PlayerStat value="7129" stat="EnergyShieldRecoveryCap"/>
+		<PlayerStat value="105" stat="Spec:EnergyShieldInc"/>
+		<PlayerStat value="343.2" stat="EnergyShieldRegenRecovery"/>
+		<PlayerStat value="0" stat="EnergyShieldLeechGainRate"/>
+		<PlayerStat value="0" stat="Ward"/>
+		<PlayerStat value="0" stat="Rage"/>
+		<PlayerStat value="0" stat="RageRegenRecovery"/>
+		<PlayerStat value="27" stat="Evasion"/>
+		<PlayerStat value="0" stat="Spec:EvasionInc"/>
+		<PlayerStat value="0" stat="MeleeEvadeChance"/>
+		<PlayerStat value="0" stat="ProjectileEvadeChance"/>
+		<PlayerStat value="35170" stat="Armour"/>
+		<PlayerStat value="95" stat="Spec:ArmourInc"/>
+		<PlayerStat value="90" stat="PhysicalDamageReduction"/>
+		<PlayerStat value="78" stat="EffectiveBlockChance"/>
+		<PlayerStat value="65" stat="EffectiveSpellBlockChance"/>
+		<PlayerStat value="0" stat="AttackDodgeChance"/>
+		<PlayerStat value="0" stat="SpellDodgeChance"/>
+		<PlayerStat value="0" stat="EffectiveSpellSuppressionChance"/>
+		<PlayerStat value="61" stat="FireResist"/>
+		<PlayerStat value="0" stat="FireResistOverCap"/>
+		<PlayerStat value="70" stat="ColdResist"/>
+		<PlayerStat value="0" stat="ColdResistOverCap"/>
+		<PlayerStat value="61" stat="LightningResist"/>
+		<PlayerStat value="0" stat="LightningResistOverCap"/>
+		<PlayerStat value="-13" stat="ChaosResist"/>
+		<PlayerStat value="0" stat="ChaosResistOverCap"/>
+		<PlayerStat value="1.87" stat="EffectiveMovementSpeedMod"/>
+		<PlayerStat value="0" stat="FullDPS"/>
+		<PlayerStat value="0" stat="FullDotDPS"/>
+		<PlayerStat value="0" stat="PowerCharges"/>
+		<PlayerStat value="3" stat="PowerChargesMax"/>
+		<PlayerStat value="3" stat="FrenzyCharges"/>
+		<PlayerStat value="3" stat="FrenzyChargesMax"/>
+		<PlayerStat value="3" stat="EnduranceCharges"/>
+		<PlayerStat value="3" stat="EnduranceChargesMax"/>
+		<TimelessData socketFilterDistance="0" devotionVariant1="1" devotionVariant2="1" searchList="" searchListFallback=""/>
+	</Build>
+	<Party ShowAdvanceTools="false" destination="All" append="false"/>
+	<Config activeConfigSet="1">
+		<ConfigSet title="Default" id="1">
+			<Input string="Gruthkul" name="pantheonMinorGod"/>
+			<Input boolean="true" name="conditionHaveEnergyShield"/>
+			<Input boolean="true" name="useFrenzyCharges"/>
+			<Input boolean="true" name="useEnduranceCharges"/>
+			<Input string="Eramir" name="bandit"/>
+			<Input boolean="true" name="conditionEnemyBleeding"/>
+			<Input boolean="true" name="conditionEnemyIgnited"/>
+			<Input boolean="true" name="conditionEnemyChilled"/>
+			<Input boolean="true" name="conditionEnemyShocked"/>
+			<Input boolean="true" name="brandAttachedToEnemy"/>
+			<Input boolean="true" name="conditionCritRecently"/>
+			<Input boolean="true" name="DisableEHPGainOnBlock"/>
+			<Input boolean="true" name="conditionFullLife"/>
+			<Input string="TheBrineKing" name="pantheonMajorGod"/>
+			<Placeholder number="70" name="enemyDamageRollRange"/>
+			<Placeholder number="15" name="multiplierWitheredStackCountSelf"/>
+			<Placeholder number="700" name="enemySpeed"/>
+			<Placeholder number="5" name="enemyCritChance"/>
+			<Placeholder number="30" name="enemyCritDamage"/>
+			<Placeholder number="2241" name="enemyPhysicalDamage"/>
+			<Placeholder number="2241" name="enemyLightningDamage"/>
+			<Placeholder number="2241" name="enemyColdDamage"/>
+			<Placeholder number="2241" name="enemyFireDamage"/>
+			<Placeholder number="896" name="enemyChaosDamage"/>
+			<Placeholder number="3" name="enemyLightningPen"/>
+			<Placeholder number="1" name="ScorchStacks"/>
+			<Placeholder number="3" name="enemyFirePen"/>
+			<Placeholder number="50" name="enemyFireResist"/>
+			<Placeholder number="1" name="sigilOfPowerStages"/>
+			<Placeholder number="50" name="enemyColdResist"/>
+			<Placeholder number="50" name="enemyLightningResist"/>
+			<Placeholder number="30" name="enemyChaosResist"/>
+			<Placeholder number="61989" name="enemyArmour"/>
+			<Placeholder number="3" name="enemyColdPen"/>
+			<Placeholder number="10143" name="enemyEvasion"/>
+			<Placeholder number="84" name="enemyLevel"/>
+			<Placeholder number="1" name="ShockStacks"/>
+		</ConfigSet>
+	</Config>
+	<TreeView zoomX="399.01266666667" zoomY="851.06422222222" showStatDifferences="true" searchStr="" zoomLevel="6"/>
+	<Items showStatDifferences="true" activeItemSet="1" useSecondWeaponSet="false">
+		<Item id="1">
+			Rarity: RARE
+Mind Star
+Divine Crown
+Armour: 1360
+ArmourBasePercentile: 0.8358
+Energy Shield: 307
+EnergyShieldBasePercentile: 0.8175
+Unique ID: 01b659a2ab79a74fcc71e305f5bc20de359a2c1233ae839557794aa308578126
+Item Level: 86
+Quality: 20
+Sockets: B-R-B-R
+LevelReq: 84
+Implicits: 2
+Damage Penetrates 4% Fire Resistance
+While a Unique Enemy is in your Presence, 15% increased Flammability Curse Effect
+{fractured}+127 to Armour
+{fractured}+39 to maximum Energy Shield
+42% increased Armour and Energy Shield
+19% increased Rarity of Items found
++42% to Lightning Resistance
+16% increased Stun and Block Recovery
+{crafted}73% increased Armour and Energy Shield
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="2">
+			Rarity: UNIQUE
+Aegis Aurora
+Champion Kite Shield
+Armour: 1311
+ArmourBasePercentile: 0.4688
+Energy Shield: 268
+EnergyShieldBasePercentile: 0.5029
+Unique ID: e22604db264b2e587418492de0f690f1d50806074db63a0044b62e9a4d4d7ca9
+Item Level: 85
+Quality: 20
+Sockets: W-W-W
+LevelReq: 62
+Implicits: 0
+375% increased Armour and Energy Shield
++10% to all Elemental Resistances
++5% to maximum Cold Resistance
++6% Chance to Block
+Recover Energy Shield equal to 2% of Armour when you Block
+17% increased Elemental Damage with Attack Skills
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="3">
+			Rarity: UNIQUE
+Dyadian Dawn
+Heavy Belt
+Unique ID: 412b80122b2aa297aabafffae76f515d7676002b079ee284aeb41908323bc815
+Item Level: 83
+LevelReq: 8
+Implicits: 1
++29 to Strength
++79 to maximum Life
++39% to Fire Resistance
++37% to Cold Resistance
+1% of Attack Damage Leeched as Life against Chilled Enemies
+Ignites you inflict with Attacks deal Damage 42% faster
+Deal no Physical Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="4">
+			Rarity: UNIQUE
+Incandescent Heart
+Saintly Chainmail
+Armour: 1812
+ArmourBasePercentile: 0.7186
+Energy Shield: 432
+EnergyShieldBasePercentile: 0.7059
+Unique ID: 4fd23446c9126a5ac7b4c816e110fd6516f057e7ad557c343725ecbec7f2f05e
+Item Level: 74
+Quality: 20
+Sockets: R-R-R-G-B-R
+LevelReq: 70
+Implicits: 0
+240% increased Armour and Energy Shield
++85 to maximum Life
+0.94% of Attack Damage Leeched as Life
+Gain 18% of Elemental Damage as Extra Chaos Damage
+25% of Elemental Damage from Hits taken as Chaos Damage
+24% increased Light Radius
+Light Radius is based on Energy Shield instead of Life
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="5">
+			Rarity: UNIQUE
+Polaric Devastation
+Opal Ring
+Unique ID: 365f31f70c681fc2208c7a65d0b1e2866b32501bcf79246b9d5c9a52d707a61d
+Item Level: 81
+LevelReq: 80
+Implicits: 1
+28% increased Elemental Damage
+22% increased Global Critical Strike Chance
++33% to Fire Resistance
++37% to Cold Resistance
+12% increased Duration of Ailments on Enemies
+Left Ring slot: Cover Enemies in Ash for 5 seconds when you Ignite them
+Right Ring slot: Cover Enemies in Frost for 5 seconds when you Freeze them
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="7">
+			Rarity: RARE
+Taut Phalange
+Molten Xophgraft
+Unique ID: 70012494ce3a1f8160d6964345b44d9a06125034ba4b83183ab49d460c098143
+Item Level: 86
+LevelReq: 80
+Implicits: 2
+14% increased Armour
+Uses level 30 Heart of Flame
+8% increased Area of Effect
+25% increased Graftblood gained
+Skills used by this Graft have 14% increased Skill Effect Duration
+Skills used by this Graft Gain 31% of Fire Damage as Extra Chaos Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="8">
+			Rarity: RARE
+Flesh Grip
+Hardening Uulgraft
+Unique ID: 78f2a56d9d082d95e9ecc7ee99876ffbd1a6d023076e1b5bcfb580c82a077572
+Item Level: 85
+LevelReq: 80
+Implicits: 2
+3% additional Physical Damage Reduction
+Uses level 34 Tender Embrace
++20% to Damage over Time Multiplier
+24% increased Graftblood gained
+Skills used by this Graft have 33% increased Skill Effect Duration
++4 to level of Skills used by this Graft
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="9">
+			Rarity: RARE
+Corpse Hold
+Paladin Gloves
+Armour: 821
+ArmourBasePercentile: 0.7064
+Energy Shield: 192
+EnergyShieldBasePercentile: 0.6609
+Unique ID: 3af3f3426c4eb04c90b0f55f2c0e0c6de9897e9d19d0ad0f0d514831961867d6
+Item Level: 86
+Quality: 20
+Sockets: G-R-B-R
+LevelReq: 84
+Implicits: 2
+Inflict Fire Exposure on Hit, applying -12% to Fire Resistance
+Ignites you inflict spread to other Enemies within 1.2 metres
+{fractured}91% increased Armour and Energy Shield
+14% increased Attack Speed
++68 to Armour
+41% increased Armour and Energy Shield
++24 to maximum Energy Shield
+28% increased Energy Shield Recharge Rate
+16% increased Stun and Block Recovery
+{crafted}+20% to Cold and Lightning Resistances
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+		</Item>
+		<Item id="10">
+			Rarity: UNIQUE
+Ephemeral Edge
+Dusk Blade
+Unique ID: 256fa9fc511784bdcb8742ce94878c69bb7787aafe37012f6c923a7e43aa2e0e
+Item Level: 85
+Quality: 20
+Sockets: B-R-B
+LevelReq: 32
+Implicits: 1
+40% increased Global Accuracy Rating
++10 to Intelligence
+Adds 1 to 75 Lightning Damage
+50% increased Global Critical Strike Chance
+47% increased maximum Energy Shield
+25% reduced maximum Life
+Attacks with this Weapon have Added Maximum Lightning Damage equal to 14% of Player&apos;s Maximum Energy Shield
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="11">
+			Rarity: RARE
+Morbid Spark
+Paladin Boots
+Armour: 525
+ArmourBasePercentile: 0.7376
+Energy Shield: 104
+EnergyShieldBasePercentile: 0.6898
+Unique ID: d36587ccd5c34513a6e29073d4e132406e3cdaa146435ac548396f7cced945da
+Item Level: 87
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 84
+Implicits: 2
+While a Unique Enemy is in your Presence, Ignites you inflict deal Damage 10% faster
+34% increased Effect of the Buff granted by your Stone Golems
+{fractured}35% increased Movement Speed
++56 to Dexterity
+92% increased Armour and Energy Shield
++40 to maximum Mana
++27% to Cold Resistance
+{crafted}+34% to Lightning Resistance
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="12">
+			Rarity: UNIQUE
+Ashes of the Stars
+Onyx Amulet
+Unique ID: 76d9e80f783c7f57dbb2e253099341d30376362b6f364776a2545c8649940452
+Item Level: 87
+LevelReq: 20
+Implicits: 2
+{crafted}Allocates Brutal Blade
++16 to all Attributes
+6% increased Experience Gain of Gems
++1 to Level of all Skill Gems
++28% to Quality of all Skill Gems
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="13">
+			Rarity: UNIQUE
+Berek&apos;s Respite
+Two-Stone Ring
+Unique ID: 818875ecf5122ce939b677752b257033dd59f486a30a5f6cf7a68d0300ad7e64
+Item Level: 80
+LevelReq: 20
+Implicits: 1
++16% to Fire and Lightning Resistances
+Adds 24 to 45 Fire Damage to Spells and Attacks
+36% increased Lightning Damage
++30 to maximum Mana
+When you Kill a Shocked Enemy, inflict an equivalent Shock on each nearby Enemy
+When you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="14">
+			Rarity: MAGIC
+Practitioner&apos;s Granite Flask of the Armadillo
+Unique ID: 184bce66d1fa47bda7973ff5688e233b3695e181a7d2e10540d6a03d352a406c
+Item Level: 85
+Quality: 20
+LevelReq: 67
+Implicits: 1
+{crafted}Used when Charges reach full
+20% reduced Charges per use
+58% increased Armour during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="15">
+			Rarity: MAGIC
+Medic&apos;s Silver Flask of Diverting
+Unique ID: 6b66591dd752d7a8dc64bd0cdde1b14d0fd1c415025c6ea46a5c24c9d82f9094
+Item Level: 63
+Quality: 20
+LevelReq: 27
+Implicits: 1
+{crafted}Used when Charges reach full
+13% chance to gain a Flask Charge when you deal a Critical Strike
+0.4% of Spell Damage Leeched as Energy Shield during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="16">
+			Rarity: MAGIC
+Abundant Quicksilver Flask of the Mockingbird
+Unique ID: 1420a7798ef54e3b6d775bd18e55d99a22400b590a6442340d697ae83e924d40
+Item Level: 85
+Quality: 20
+LevelReq: 49
+Implicits: 1
+{crafted}Used when Charges reach full
++28 to Maximum Charges
+44% reduced Effect of Curses on you during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="17">
+			Rarity: MAGIC
+Constant Basalt Flask of the Plover
+Unique ID: cc5ecc3e135dac187ae554070c5cac315a449d02ef91f78ab6dd81ad82db10e0
+Item Level: 85
+Quality: 20
+LevelReq: 27
+Implicits: 2
+{crafted}Used when Charges reach full
+Taunts nearby Enemies on use
+18% increased Charge Recovery
+40% reduced Effect of Shock on you during Effect
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="18">
+			Rarity: MAGIC
+Lucid Prismatic Tincture of Melting
+Unique ID: 51efe52b272431cdeb4ebc5452e6439306a75fece28eca10088c45062fee78a2
+Item Level: 84
+Quality: 0
+LevelReq: 56
+Implicits: 1
+89% increased Elemental Damage with Melee Weapons
+14% increased Cooldown Recovery Rate
++28% to Damage over Time Multiplier with Melee Weapon Attacks
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="19">
+			Rarity: UNIQUE
+The Light of Meaning
+Prismatic Jewel
+Unique ID: 03323341c3f03d9ceaa5ccfe6cc5face40b875c47ac6ed03637d2a655424a676
+Item Level: 85
+Radius: Large
+Implicits: 0
+Passive Skills in Radius also grant 3% increased Energy Shield
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="20">
+			Rarity: UNIQUE
+The Blue Dream
+Cobalt Jewel
+Unique ID: e5abe55e89455d8a546e618d5f73e1d9c50b941150e2a401cee51340b18dcbed
+Item Level: 83
+Radius: Large
+Implicits: 1
+Corrupted Blood cannot be inflicted on you
+Gain 10% of Lightning Damage as Extra Chaos Damage
+Passives granting Lightning Resistance or all Elemental Resistances in Radius
+also grant an equal chance to gain a Power Charge on Kill
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+		</Item>
+		<Item id="21">
+			Rarity: UNIQUE
+Watcher&apos;s Eye
+Prismatic Jewel
+Unique ID: 265395f9ae48670c13cceee5b87fc623627be4f58685497a81bd14832652312f
+Item Level: 85
+Implicits: 0
+4% increased maximum Energy Shield
+6% increased maximum Life
+5% increased maximum Mana
++5% Chance to Block Spell Damage while affected by Discipline
++20% to Damage over Time Multiplier while affected by Malevolence
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item variant="3" id="6">
+			Rarity: UNIQUE
+The Taming
+Prismatic Ring
+League: Domination, Nemesis
+Variant: Pre 3.0.0
+Variant: Pre 3.25.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 30
+Implicits: 1
+{tags:jewellery_resistance}{range:0.5}+(8-10)% to all Elemental Resistances
+{tags:jewellery_elemental,attack}{variant:1}15% increased Elemental Damage with Attack Skills
+{tags:jewellery_elemental,attack}{variant:2}30% increased Elemental Damage with Attack Skills
+{tags:jewellery_resistance}{variant:1}{range:0.5}+(10-15)% to all Elemental Resistances
+{tags:jewellery_resistance}{variant:2,3}{range:0.5}+(20-30)% to all Elemental Resistances
+{tags:jewellery_elemental}{variant:1}15% increased Elemental Damage
+{tags:jewellery_elemental}{variant:2}30% increased Elemental Damage
+{variant:1}5% chance to Freeze, Shock and Ignite
+{variant:2,3}10% chance to Freeze, Shock and Ignite
+{variant:1}10% increased Damage per Freeze, Shock and Ignite on Enemy
+{variant:2}20% increased Damage with Hits and Ailments per Freeze, Shock and Ignite on Enemy
+{tags:jewellery_elemental}{variant:3}{range:0.5}(30-40)% increased Elemental Damage with Hits and Ailments for each type of Elemental Ailment on Enemy
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+		</Item>
+		<Item id="22">
+			Rarity: UNIQUE
+Stranglegasp
+Onyx Amulet
+LevelReq: 52
+Implicits: 5
+{crafted}Allocates Whispers of Doom
+{crafted}Allocates Charisma
+{crafted}Allocates Safeguard
+{crafted}Allocates Ash, Frost and Storm
+{tags:jewellery_attribute}{range:0.756}+(10-16) to all Attributes
+Can have 3 additional Enchantment Modifiers
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.756" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item variant="2" id="23">
+			Rarity: UNIQUE
+Thread of Hope
+Crimson Jewel
+Variant: Small Ring
+Variant: Medium Ring
+Variant: Large Ring
+Variant: Very Large Ring
+Variant: Massive Ring (Uber)
+Selected Variant: 2
+Radius: Variable
+Implicits: 0
+{variant:1}Only affects Passives in Small Ring
+{variant:2}Only affects Passives in Medium Ring
+{variant:3}Only affects Passives in Large Ring
+{variant:4}Only affects Passives in Very Large Ring
+{variant:5}Only affects Passives in Massive Ring
+Passive Skills in Radius can be Allocated without being connected to your tree
+{range:0.5}-(20-10)% to all Elemental Resistances
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="24">
+			Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableCalamitous
+Prefix: {range:0.5}AfflictionNotableProdigiousDefense__
+Suffix: {range:0.5}AfflictionNotableSmitetheWeak
+Suffix: None
+Cluster Jewel Skill: affliction_attack_damage_while_holding_a_shield
+Cluster Jewel Node Count: 8
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Attack Damage while holding a Shield
+1 Added Passive Skill is Calamitous
+1 Added Passive Skill is Prodigious Defence
+1 Added Passive Skill is Smite the Weak
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item variant="19" id="25">
+			Rarity: UNIQUE
+Impossible Escape
+Viridian Jewel
+League: Sentinel
+Variant: Acrobatics
+Variant: Ancestral Bond
+Variant: Arrow Dancing
+Variant: Arsenal of Vengeance
+Variant: Avatar of Fire
+Variant: Blood Magic
+Variant: Bloodsoaked Blade
+Variant: Call to Arms
+Variant: Chaos Inoculation
+Variant: Conduit
+Variant: Crimson Dance
+Variant: Divine Shield
+Variant: Eldritch Battery
+Variant: Elemental Equilibrium
+Variant: Elemental Overload
+Variant: Eternal Youth
+Variant: Ghost Dance
+Variant: Ghost Reaver
+Variant: Glancing Blows
+Variant: Hex Master
+Variant: Imbalanced Guard
+Variant: Iron Grip
+Variant: Iron Reflexes
+Variant: Iron Will
+Variant: Lethe Shade
+Variant: Magebane
+Variant: Mind Over Matter
+Variant: Minion Instability
+Variant: Necromantic Aegis
+Variant: Pain Attunement
+Variant: Perfect Agony
+Variant: Point Blank
+Variant: Precise Technique
+Variant: Resolute Technique
+Variant: Runebinder
+Variant: Solipsism
+Variant: Supreme Ego
+Variant: The Agnostic
+Variant: The Impaler
+Variant: Unwavering Stance
+Variant: Vaal Pact
+Variant: Versatile Combatant
+Variant: Wicked Ward
+Variant: Wind Dancer
+Variant: Zealot&apos;s Oath
+Variant: Everything (QoL Test Variant)
+Selected Variant: 19
+Radius: Small
+Limited to: 1
+Implicits: 0
+{variant:1,46}Passive Skills in radius of Acrobatics can be allocated without being connected to your tree
+{variant:2,46}Passive Skills in radius of Ancestral Bond can be allocated without being connected to your tree
+{variant:46,3}Passive Skills in radius of Arrow Dancing can be allocated without being connected to your tree
+{variant:46,4}Passive Skills in radius of Arsenal of Vengeance can be allocated without being connected to your tree
+{variant:5,46}Passive Skills in radius of Avatar of Fire can be allocated without being connected to your tree
+{variant:46,6}Passive Skills in radius of Blood Magic can be allocated without being connected to your tree
+{variant:7,46}Passive Skills in radius of Bloodsoaked Blade can be allocated without being connected to your tree
+{variant:46,8}Passive Skills in radius of Call to Arms can be allocated without being connected to your tree
+{variant:46,9}Passive Skills in radius of Chaos Inoculation can be allocated without being connected to your tree
+{variant:10,46}Passive Skills in radius of Conduit can be allocated without being connected to your tree
+{variant:11,46}Passive Skills in radius of Crimson Dance can be allocated without being connected to your tree
+{variant:46,12}Passive Skills in radius of Divine Shield can be allocated without being connected to your tree
+{variant:46,13}Passive Skills in radius of Eldritch Battery can be allocated without being connected to your tree
+{variant:14,46}Passive Skills in radius of Elemental Equilibrium can be allocated without being connected to your tree
+{variant:15,46}Passive Skills in radius of Elemental Overload can be allocated without being connected to your tree
+{variant:46,16}Passive Skills in radius of Eternal Youth can be allocated without being connected to your tree
+{variant:17,46}Passive Skills in radius of Ghost Dance can be allocated without being connected to your tree
+{variant:46,18}Passive Skills in radius of Ghost Reaver can be allocated without being connected to your tree
+{variant:46,19}Passive Skills in radius of Glancing Blows can be allocated without being connected to your tree
+{variant:20,46}Passive Skills in radius of Hex Master can be allocated without being connected to your tree
+{variant:46,21}Passive Skills in radius of Imbalanced Guard can be allocated without being connected to your tree
+{variant:22,46}Passive Skills in radius of Iron Grip can be allocated without being connected to your tree
+{variant:23,46}Passive Skills in radius of Iron Reflexes can be allocated without being connected to your tree
+{variant:46,24}Passive Skills in radius of Iron Will can be allocated without being connected to your tree
+{variant:25,46}Passive Skills in radius of Lethe Shade can be allocated without being connected to your tree
+{variant:46,26}Passive Skills in radius of Magebane can be allocated without being connected to your tree
+{variant:46,27}Passive Skills in radius of Mind Over Matter can be allocated without being connected to your tree
+{variant:28,46}Passive Skills in radius of Minion Instability can be allocated without being connected to your tree
+{variant:46,29}Passive Skills in radius of Necromantic Aegis can be allocated without being connected to your tree
+{variant:30,46}Passive Skills in radius of Pain Attunement can be allocated without being connected to your tree
+{variant:31,46}Passive Skills in radius of Perfect Agony can be allocated without being connected to your tree
+{variant:46,32}Passive Skills in radius of Point Blank can be allocated without being connected to your tree
+{variant:33,46}Passive Skills in radius of Precise Technique can be allocated without being connected to your tree
+{variant:34,46}Passive Skills in radius of Resolute Technique can be allocated without being connected to your tree
+{variant:35,46}Passive Skills in radius of Runebinder can be allocated without being connected to your tree
+{variant:46,36}Passive Skills in radius of Solipsism can be allocated without being connected to your tree
+{variant:46,37}Passive Skills in radius of Supreme Ego can be allocated without being connected to your tree
+{variant:46,38}Passive Skills in radius of The Agnostic can be allocated without being connected to your tree
+{variant:46,39}Passive Skills in radius of The Impaler can be allocated without being connected to your tree
+{variant:40,46}Passive Skills in radius of Unwavering Stance can be allocated without being connected to your tree
+{variant:46,41}Passive Skills in radius of Vaal Pact can be allocated without being connected to your tree
+{variant:46,42}Passive Skills in radius of Versatile Combatant can be allocated without being connected to your tree
+{variant:46,43}Passive Skills in radius of Wicked Ward can be allocated without being connected to your tree
+{variant:44,46}Passive Skills in radius of Wind Dancer can be allocated without being connected to your tree
+{variant:45,46}Passive Skills in radius of Zealot&apos;s Oath can be allocated without being connected to your tree
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+		</Item>
+		<Item variant="35" id="26">
+			Rarity: UNIQUE
+Impossible Escape
+Viridian Jewel
+League: Sentinel
+Variant: Acrobatics
+Variant: Ancestral Bond
+Variant: Arrow Dancing
+Variant: Arsenal of Vengeance
+Variant: Avatar of Fire
+Variant: Blood Magic
+Variant: Bloodsoaked Blade
+Variant: Call to Arms
+Variant: Chaos Inoculation
+Variant: Conduit
+Variant: Crimson Dance
+Variant: Divine Shield
+Variant: Eldritch Battery
+Variant: Elemental Equilibrium
+Variant: Elemental Overload
+Variant: Eternal Youth
+Variant: Ghost Dance
+Variant: Ghost Reaver
+Variant: Glancing Blows
+Variant: Hex Master
+Variant: Imbalanced Guard
+Variant: Iron Grip
+Variant: Iron Reflexes
+Variant: Iron Will
+Variant: Lethe Shade
+Variant: Magebane
+Variant: Mind Over Matter
+Variant: Minion Instability
+Variant: Necromantic Aegis
+Variant: Pain Attunement
+Variant: Perfect Agony
+Variant: Point Blank
+Variant: Precise Technique
+Variant: Resolute Technique
+Variant: Runebinder
+Variant: Solipsism
+Variant: Supreme Ego
+Variant: The Agnostic
+Variant: The Impaler
+Variant: Unwavering Stance
+Variant: Vaal Pact
+Variant: Versatile Combatant
+Variant: Wicked Ward
+Variant: Wind Dancer
+Variant: Zealot&apos;s Oath
+Variant: Everything (QoL Test Variant)
+Selected Variant: 35
+Radius: Small
+Limited to: 1
+Implicits: 0
+{variant:1,46}Passive Skills in radius of Acrobatics can be allocated without being connected to your tree
+{variant:2,46}Passive Skills in radius of Ancestral Bond can be allocated without being connected to your tree
+{variant:46,3}Passive Skills in radius of Arrow Dancing can be allocated without being connected to your tree
+{variant:46,4}Passive Skills in radius of Arsenal of Vengeance can be allocated without being connected to your tree
+{variant:5,46}Passive Skills in radius of Avatar of Fire can be allocated without being connected to your tree
+{variant:46,6}Passive Skills in radius of Blood Magic can be allocated without being connected to your tree
+{variant:7,46}Passive Skills in radius of Bloodsoaked Blade can be allocated without being connected to your tree
+{variant:46,8}Passive Skills in radius of Call to Arms can be allocated without being connected to your tree
+{variant:46,9}Passive Skills in radius of Chaos Inoculation can be allocated without being connected to your tree
+{variant:10,46}Passive Skills in radius of Conduit can be allocated without being connected to your tree
+{variant:11,46}Passive Skills in radius of Crimson Dance can be allocated without being connected to your tree
+{variant:46,12}Passive Skills in radius of Divine Shield can be allocated without being connected to your tree
+{variant:46,13}Passive Skills in radius of Eldritch Battery can be allocated without being connected to your tree
+{variant:14,46}Passive Skills in radius of Elemental Equilibrium can be allocated without being connected to your tree
+{variant:15,46}Passive Skills in radius of Elemental Overload can be allocated without being connected to your tree
+{variant:46,16}Passive Skills in radius of Eternal Youth can be allocated without being connected to your tree
+{variant:17,46}Passive Skills in radius of Ghost Dance can be allocated without being connected to your tree
+{variant:46,18}Passive Skills in radius of Ghost Reaver can be allocated without being connected to your tree
+{variant:46,19}Passive Skills in radius of Glancing Blows can be allocated without being connected to your tree
+{variant:20,46}Passive Skills in radius of Hex Master can be allocated without being connected to your tree
+{variant:46,21}Passive Skills in radius of Imbalanced Guard can be allocated without being connected to your tree
+{variant:22,46}Passive Skills in radius of Iron Grip can be allocated without being connected to your tree
+{variant:23,46}Passive Skills in radius of Iron Reflexes can be allocated without being connected to your tree
+{variant:46,24}Passive Skills in radius of Iron Will can be allocated without being connected to your tree
+{variant:25,46}Passive Skills in radius of Lethe Shade can be allocated without being connected to your tree
+{variant:46,26}Passive Skills in radius of Magebane can be allocated without being connected to your tree
+{variant:46,27}Passive Skills in radius of Mind Over Matter can be allocated without being connected to your tree
+{variant:28,46}Passive Skills in radius of Minion Instability can be allocated without being connected to your tree
+{variant:46,29}Passive Skills in radius of Necromantic Aegis can be allocated without being connected to your tree
+{variant:30,46}Passive Skills in radius of Pain Attunement can be allocated without being connected to your tree
+{variant:31,46}Passive Skills in radius of Perfect Agony can be allocated without being connected to your tree
+{variant:46,32}Passive Skills in radius of Point Blank can be allocated without being connected to your tree
+{variant:33,46}Passive Skills in radius of Precise Technique can be allocated without being connected to your tree
+{variant:34,46}Passive Skills in radius of Resolute Technique can be allocated without being connected to your tree
+{variant:35,46}Passive Skills in radius of Runebinder can be allocated without being connected to your tree
+{variant:46,36}Passive Skills in radius of Solipsism can be allocated without being connected to your tree
+{variant:46,37}Passive Skills in radius of Supreme Ego can be allocated without being connected to your tree
+{variant:46,38}Passive Skills in radius of The Agnostic can be allocated without being connected to your tree
+{variant:46,39}Passive Skills in radius of The Impaler can be allocated without being connected to your tree
+{variant:40,46}Passive Skills in radius of Unwavering Stance can be allocated without being connected to your tree
+{variant:46,41}Passive Skills in radius of Vaal Pact can be allocated without being connected to your tree
+{variant:46,42}Passive Skills in radius of Versatile Combatant can be allocated without being connected to your tree
+{variant:46,43}Passive Skills in radius of Wicked Ward can be allocated without being connected to your tree
+{variant:44,46}Passive Skills in radius of Wind Dancer can be allocated without being connected to your tree
+{variant:45,46}Passive Skills in radius of Zealot&apos;s Oath can be allocated without being connected to your tree
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+		</Item>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot itemId="0" name="Weapon 1 Swap" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap" itemPbURL=""/>
+			<Slot itemId="7" name="Graft 1" itemPbURL=""/>
+			<Slot itemId="8" name="Graft 2" itemPbURL=""/>
+			<Slot itemId="17" name="Flask 5" active="true" itemPbURL=""/>
+			<Slot itemId="10" name="Weapon 1" itemPbURL=""/>
+			<Slot itemId="12" name="Amulet" itemPbURL=""/>
+			<Slot itemId="1" name="Helmet" itemPbURL=""/>
+			<Slot itemId="2" name="Weapon 2" itemPbURL=""/>
+			<Slot itemId="4" name="Body Armour" itemPbURL=""/>
+			<Slot itemId="9" name="Gloves" itemPbURL=""/>
+			<Slot itemId="11" name="Boots" itemPbURL=""/>
+			<Slot itemId="5" name="Ring 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Ring 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 1" itemPbURL=""/>
+			<SocketIdURL name="Jewel 61419" nodeId="61419" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 6" itemPbURL=""/>
+			<SocketIdURL name="Jewel 7960" nodeId="7960" itemPbURL=""/>
+			<SocketIdURL name="Jewel 9408" nodeId="9408" itemPbURL=""/>
+			<SocketIdURL name="Jewel 26196" nodeId="26196" itemPbURL=""/>
+			<SocketIdURL name="Jewel 26725" nodeId="26725" itemPbURL=""/>
+			<SocketIdURL name="Jewel 29712" nodeId="29712" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="13" name="Ring 2" itemPbURL=""/>
+			<Slot itemId="18" name="Flask 1" active="true" itemPbURL=""/>
+			<Slot itemId="15" name="Flask 2" active="true" itemPbURL=""/>
+			<Slot itemId="16" name="Flask 3" active="true" itemPbURL=""/>
+			<Slot itemId="14" name="Flask 4" active="true" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="3" name="Belt" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 2" itemPbURL=""/>
+		</ItemSet>
+		<TradeSearchWeights/>
+	</Items>
+	<Calcs>
+		<Input string="EFFECTIVE" name="misc_buffMode"/>
+		<Input number="3" name="skill_number"/>
+		<Section collapsed="false" subsection="ViewSkillDetails" id="SkillSelect"/>
+		<Section collapsed="false" subsection="SkillHitDamage" id="HitDamage"/>
+		<Section collapsed="false" subsection="ExertingWarcries" id="Warcries"/>
+		<Section collapsed="false" subsection="SkillDamageoverTime" id="Dot"/>
+		<Section collapsed="false" subsection="AttackCastRate" id="Speed"/>
+		<Section collapsed="false" subsection="Crits" id="Crit"/>
+		<Section collapsed="false" subsection="Impale" id="Impale"/>
+		<Section collapsed="false" subsection="SkilltypespecificStats" id="SkillTypeStats"/>
+		<Section collapsed="false" subsection="Accuracy" id="HitChance"/>
+		<Section collapsed="false" subsection="Bleed" id="Bleed"/>
+		<Section collapsed="false" subsection="Poison" id="Poison"/>
+		<Section collapsed="false" subsection="Ignite" id="Ignite"/>
+		<Section collapsed="false" subsection="Decay" id="Decay"/>
+		<Section collapsed="false" subsection="LeechGainonHit" id="LeechGain"/>
+		<Section collapsed="false" subsection="NonDamagingAilments" id="EleAilments"/>
+		<Section collapsed="false" subsection="OtherEffects" id="MiscEffects"/>
+		<Section collapsed="false" subsection="Attributes" id="Attributes"/>
+		<Section collapsed="false" subsection="Life" id="Life"/>
+		<Section collapsed="false" subsection="Mana" id="Mana"/>
+		<Section collapsed="false" subsection="EnergyShield" id="EnergyShield"/>
+		<Section collapsed="false" subsection="Ward" id="Ward"/>
+		<Section collapsed="false" subsection="Resists" id="Resist"/>
+		<Section collapsed="false" subsection="Armour" id="Armour"/>
+		<Section collapsed="false" subsection="Evasion" id="Evasion"/>
+		<Section collapsed="false" subsection="DamageAvoidance" id="DamageAvoidance"/>
+		<Section collapsed="false" subsection="Block" id="DamageAvoidance"/>
+		<Section collapsed="false" subsection="Dodge" id="DamageAvoidance"/>
+		<Section collapsed="false" subsection="SpellSuppression" id="DamageAvoidance"/>
+		<Section collapsed="false" subsection="Flasks" id="Flasks"/>
+		<Section collapsed="true" subsection="UtilityFlasks" id="Flasks"/>
+		<Section collapsed="true" subsection="LifeFlasks" id="Flasks"/>
+		<Section collapsed="true" subsection="ManaFlasks" id="Flasks"/>
+		<Section collapsed="true" subsection="Tinctures" id="Flasks"/>
+		<Section collapsed="true" subsection="Rage" id="Rage"/>
+		<Section collapsed="true" subsection="Charges" id="Charges"/>
+		<Section collapsed="true" subsection="Endurance" id="Charges"/>
+		<Section collapsed="true" subsection="Frenzy" id="Charges"/>
+		<Section collapsed="true" subsection="Power" id="Charges"/>
+		<Section collapsed="false" subsection="OtherDefences" id="MiscDefences"/>
+		<Section collapsed="false" subsection="StunDuration" id="MiscDefences"/>
+		<Section collapsed="true" subsection="OtherAvoidance" id="MiscDefences"/>
+		<Section collapsed="true" subsection="OtherAilmentDefences" id="MiscDefences"/>
+		<Section collapsed="false" subsection="DamageTaken" id="DamageTaken"/>
+		<Section collapsed="false" subsection="DamagingHits" id="DamageTaken"/>
+		<Section collapsed="false" subsection="EffectiveHealthPool" id="DamageTaken"/>
+		<Section collapsed="false" subsection="MaximumHitTaken" id="DamageTaken"/>
+		<Section collapsed="true" subsection="RecoupandHitTakenOverTime" id="DamageTaken"/>
+		<Section collapsed="false" subsection="DotsandBuildDegens" id="DamageTaken"/>
+		<Section collapsed="true" subsection="EnemyDegens" id="DamageTaken"/>
+	</Calcs>
+	<Notes>
+		
+	</Notes>
+	<Import exportParty="false"/>
+	<Tree activeSpec="2">
+		<Spec masteryEffects="{48717,7137},{2828,11521},{22480,4500},{30393,16215},{34927,24180},{38921,44840},{27307,31556},{55491,28638},{16810,30612},{37641,8653},{47197,61097},{41744,1915}" nodes="39841,22577,54447,61804,23027,9392,44922,63282,32376,48717,33310,63447,44191,2828,34400,26196,19919,62109,12143,27307,61419,13164,55743,47197,29353,55491,60440,55332,26270,56461,63723,11924,9402,50826,22535,36678,64210,5916,63425,44202,861,30393,30767,27038,34506,24872,4367,47902,58556,7444,28859,60472,27137,56330,57226,25970,6250,42760,5935,49605,32932,14930,19501,62429,41744,29061,10851,55993,54279,22088,14040,11551,19635,3359,11455,5296,3644,37641,5233,42495,46897,44184,38836,48813,15167,6764,22480,29049,59928,32210,38176,38921,21929,23659,12738,53279,15226,16810,37114,58998,12246,35958,31462,55571,34927,64221,26725,8948,50029,63630,40366,13559,15491,61259,33864,54629,16023,6967,4713,18174,6770,15117,17527,21678,48118,53123,34171,41251,39678,34423" ascendClassId="2" treeVersion="3_27" classId="3" secondaryAscendClassId="nil">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCf5uhWDHxbFnzJLCvevcyfni-TYIe99esnwsMhmBmVE3P8p0vb2qr7-szbNm_uF1yqdjD7BjYJGae3I346y6UJLrGilgHj0b60hcc98GsqgNddrl4L2mehsphKBEPux7kvB0UcLvsOGoB3ArfimVyGGqnCBcvwcWApDpSTC3z3aMQcYUqY9q51AdWSDbYLR9Msw0fLL8UsA48kwkUcaX_tzGsmJe0vq07PxpsV9BxeeoYfdKVIJgJValcazHC0B87ekGqkPrmdi_WjHZ65tkTiG_63WhlIvTDbZ2uNPc8g-9LhEjVZRs3EmlG_hpyOw1Ed1Suu_bPg4V7oSOa_oZ3AAwb4b5NLQELDHtEaqvuqbhdb97Ywz9XdrkHe6MQIc2TCRGUV9CvKJgJd5RBql50iG8=
+			</URL>
+			<Sockets>
+				<Socket nodeId="26725" itemId="21"/>
+				<Socket nodeId="26196" itemId="20"/>
+				<Socket nodeId="61419" itemId="19"/>
+			</Sockets>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{48717,7137},{2828,11521},{22480,4500},{30393,16215},{27307,31556},{55491,28638},{16810,30612},{37641,8653},{41744,1915}" nodes="39841,22577,54447,20987,23027,44922,63282,32376,48717,33310,63447,44191,2828,34400,8948,62109,12143,27307,61419,13164,29353,55491,60440,55332,29712,26270,56461,63723,11924,9402,22535,36678,64210,5916,63425,44202,861,30393,30767,27038,34506,24872,49651,4367,47902,58556,7444,28859,60472,52502,27137,56330,57226,25970,6250,42760,49605,32932,14930,19501,62429,41744,29061,10851,55993,54279,22088,3359,11455,5296,3644,37641,5233,9408,65578,65570,42495,65568,46897,7960,44184,11645,38836,48813,15167,22480,29049,26196,32210,38176,59928,23659,21929,12738,15226,16810,37114,58998,35958,55571,12246,64221,26725,50029,63630,15491,61259,33864,54629,16023,6967,4713,6770,15117,17527,21678,48118,53123,34171,41251,39678,34423" ascendClassId="2" treeVersion="3_27" classId="3" secondaryAscendClassId="nil" title="upgrade">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCdJuhWDFR-1nzr3r3Mn54vk2CHvfXrJ8LDIZgIvTynS9vaqvv6zNscqnYw-wY2CR0EGae3I346y6UJLpYB49G-tIXHPfBrKoDXXa5eC9pnobKYSjB8xEPux7kvB0UcLvsOM0WagHcCt-KZXIYaqcIwcWApDpSTC3z3aMQcYUqY9q51AdWSA0fLL8UsA48kwkUcSTApf-3MR8YrJgtfZe0vq07P1fQcXlmVH3SlSDqGFxrVakxwjt6QaqQ-uZ2jHbZEy_W-t1oZcNtPIPvS4RI1WUbNxJpGnI7DUR3VK679s-DhXuhI5r-hncDACoAIgAgCRvhvk0tAQsMe0Rqq2_e2MM_V3a5B3ujECHNkwkRlFfQd5RBqg==
+			</URL>
+			<Sockets>
+				<Socket nodeId="9408" itemId="26"/>
+				<Socket nodeId="26725" itemId="20"/>
+				<Socket nodeId="7960" itemId="24"/>
+				<Socket nodeId="26196" itemId="19"/>
+				<Socket nodeId="61419" itemId="23"/>
+			</Sockets>
+			<Overrides/>
+		</Spec>
+	</Tree>
+	<Skills sortGemsByDPS="true" sortGemsByDPSField="CombinedDPS" defaultGemLevel="normalMaximum" activeSkillSet="1" showAltQualityGems="false" showSupportGemTypes="ALL" defaultGemQuality="0">
+		<SkillSet id="1">
+			<Skill slot="Helmet" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Summon Chaos Golem" enableGlobal1="true" skillMinionSkill="1" gemId="Metadata/Items/Gems/SkillGemSummonChaosGolem" skillId="SummonChaosGolem" skillMinion="SummonedChaosGolem" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" skillMinionCalcs="SummonedChaosGolem" variantId="SummonChaosGolem" skillMinionSkillCalcs="1"/>
+				<Gem nameSpec="Summon Stone Golem" enableGlobal1="true" skillMinionSkill="1" gemId="Metadata/Items/Gems/SkillGemSummonRockGolem" skillId="SummonStoneGolem" skillMinion="SummonedStoneGolem" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SummonStoneGolem" skillMinionSkillCalcs="1"/>
+				<Gem nameSpec="Summon Lightning Golem" enableGlobal1="true" skillMinionSkill="1" gemId="Metadata/Items/Gems/SkillGemSummonLightningGolem" skillId="SummonLightningGolem" skillMinion="SummonedLightningGolem" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SummonLightningGolem" skillMinionSkillCalcs="1"/>
+				<Gem nameSpec="Summon Flame Golem" enableGlobal1="true" skillMinionSkill="1" gemId="Metadata/Items/Gems/SkillGemSummonFlameGolem" skillId="SummonFlameGolem" skillMinion="SummonedFlameGolem" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SummonFlameGolem" skillMinionSkillCalcs="1"/>
+			</Skill>
+			<Skill slot="Weapon 2" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Discipline" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" qualityId="Default" level="21" count="1" enabled="true" quality="0" enableGlobal2="true" variantId="Discipline"/>
+				<Gem nameSpec="Malevolence" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemDamageOverTimeAura" skillId="Malevolence" qualityId="Default" level="21" count="1" enabled="true" quality="0" enableGlobal2="true" variantId="Malevolence"/>
+				<Gem nameSpec="Tempest Shield" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemTempestShield" skillId="TempestShield" qualityId="Default" level="21" count="1" enabled="true" quality="0" enableGlobal2="true" variantId="TempestShield"/>
+			</Skill>
+			<Skill slot="Body Armour" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Eviscerate" skillPart="1" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemEviscerate" skillId="Eviscerate" qualityId="Default" level="20" count="1" enabled="true" quality="23" enableGlobal2="true" skillPartCalcs="1" variantId="Eviscerate"/>
+				<Gem nameSpec="Volatility" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemVolatility" skillId="SupportVolatility" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportVolatility"/>
+				<Gem nameSpec="Awakened Elemental Damage with Attacks" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus" skillId="SupportAwakenedElementalDamageWithAttacks" qualityId="Default" level="3" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportAwakenedElementalDamageWithAttacks"/>
+				<Gem nameSpec="Awakened Deadly Ailments" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus" skillId="SupportAwakenedDeadlyAilments" qualityId="Default" level="2" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportAwakenedDeadlyAilments"/>
+				<Gem nameSpec="Awakened Unbound Ailments" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemUnboundAilmentsPlus" skillId="SupportAwakenedUnboundAilments" qualityId="Default" level="2" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportAwakenedUnboundAilments"/>
+				<Gem nameSpec="Awakened Burning Damage" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemBurningDamagePlus" skillId="SupportAwakenedBurningDamage" qualityId="Default" level="2" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportAwakenedBurningDamage"/>
+			</Skill>
+			<Skill slot="Gloves" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Faster Attacks" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemFasterAttack" skillId="SupportFasterAttacks" qualityId="Default" level="14" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportFasterAttacks"/>
+				<Gem nameSpec="Vaal Smite" skillPart="1" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemVaalSmite" skillId="VaalSmite" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="VaalSmite"/>
+				<Gem nameSpec="Combustion" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportCombustion" qualityId="Default" level="19" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="SupportCombustion"/>
+				<Gem nameSpec="Shield Charge" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemShieldCharge" skillId="ShieldCharge" qualityId="Default" level="21" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="ShieldCharge"/>
+			</Skill>
+			<Skill slot="Weapon 1" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Automation" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemAutomation" skillId="Automation" qualityId="Default" level="20" count="1" enabled="true" quality="0" enableGlobal2="true" variantId="Automation"/>
+				<Gem nameSpec="Vaal Molten Shell" enableGlobal1="false" gemId="Metadata/Items/Gems/SkillGemVaalMoltenShell" skillId="VaalMoltenShell" qualityId="Default" level="20" count="1" enabled="true" quality="0" enableGlobal2="true" variantId="VaalMoltenShell"/>
+			</Skill>
+			<Skill slot="Weapon 1" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Frostblink" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemFrostblink" skillId="Frostblink" qualityId="Default" level="20" count="1" enabled="true" quality="0" enableGlobal2="true" variantId="Frostblink"/>
+			</Skill>
+			<Skill slot="Boots" includeInFullDPS="false" mainActiveSkill="1" mainActiveSkillCalcs="1" enabled="true">
+				<Gem nameSpec="Elemental Weakness" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="ElementalWeakness"/>
+				<Gem nameSpec="Flammability" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemFlammability" skillId="Flammability" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="Flammability"/>
+				<Gem nameSpec="Flame Surge" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemFlameWhip" skillId="FlameSurge" qualityId="Default" level="20" count="1" enabled="true" quality="23" enableGlobal2="true" variantId="FlameSurge"/>
+				<Gem nameSpec="Arcanist Brand" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemArcanistBrand" skillId="BrandSupport" qualityId="Default" level="20" count="1" enabled="true" quality="20" enableGlobal2="true" variantId="BrandSupport"/>
+			</Skill>
+		</SkillSet>
+	</Skills>
+</PathOfBuilding>
